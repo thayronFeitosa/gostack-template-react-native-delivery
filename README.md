@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="src/assets/project.gif">
+  <img src="assets/project.gif">
 </p>
 
 ## :rocket: Sobre o desafio
